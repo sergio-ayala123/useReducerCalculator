@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useReducerCalculator/static/css/main.5d487c87.css",
+    "main.js": "/useReducerCalculator/static/js/main.c041f400.js",
+    "static/js/787.5e769892.chunk.js": "/useReducerCalculator/static/js/787.5e769892.chunk.js",
+    "index.html": "/useReducerCalculator/index.html",
+    "main.5d487c87.css.map": "/useReducerCalculator/static/css/main.5d487c87.css.map",
+    "main.c041f400.js.map": "/useReducerCalculator/static/js/main.c041f400.js.map",
+    "787.5e769892.chunk.js.map": "/useReducerCalculator/static/js/787.5e769892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d487c87.css",
+    "static/js/main.c041f400.js"
+  ]
+}
